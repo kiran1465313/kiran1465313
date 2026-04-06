@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> 
-# Hi there, I'm **Kiran Surya Sahukar** 👋
+# Hi there, I'm Kiran Surya Sahukar 👋
 
 <h3 align="center">🔬 AI/ML Engineer | Raspberry Pi Developer | Precision Agriculture Innovator</h3>
 
